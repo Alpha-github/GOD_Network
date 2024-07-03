@@ -1,0 +1,6 @@
+data/RSNA_Pneumonia/raw_data/
+/util.py
+/new.ipynb
+/Faster\ R-CNN.ipynb
+__pycache__/
+*.zip
